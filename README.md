@@ -1,20 +1,10 @@
-
-<h1 style="text-alight: center">Hi there, I'm shepeli4</h1>
-<h3>Schoolboy from Russia</h3>
-<p style="text-align: center;">Центрированный элемент</p>
-##Hi there 👋
-
-<!--
-**shepeli4/shepeli4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="main" align="center">
+  <h1>Hi there, I'm shepeli4</h1>
+  <h3>Schoolboy from Russia</h3>
+  <a href="https://t.me/shepeli18">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://mih.shperling@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
