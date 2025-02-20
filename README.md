@@ -1,4 +1,4 @@
-<div id="header" alight="center">
+<div id="header" style="text-align: center">
   <h1>Hi there, I'm shepeli4</h1>
   <h3>Schoolboy from Russia</h3>
 </div>
