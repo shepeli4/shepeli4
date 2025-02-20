@@ -1,8 +1,8 @@
-<div id="header" style="text-align: center">
-  <h1>Hi there, I'm shepeli4</h1>
-  <h3>Schoolboy from Russia</h3>
-</div>
-## Hi there 👋
+
+<h1 style="text-alight: center">Hi there, I'm shepeli4</h1>
+<h3>Schoolboy from Russia</h3>
+<p style="text-align: center;">Центрированный элемент</p>
+##Hi there 👋
 
 <!--
 **shepeli4/shepeli4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
