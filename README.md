@@ -11,9 +11,9 @@
 
 <h2>About me</h2>
 <ul>
-  <li>◕ I'm in 7th grade</li>
-  <li>◕ I speak Russian</li>
-  <li>◕ IDK what else to write here.</li>
+  <li>🎓 I'm in 7th grade</li>
+  <li>🌎 I speak Russian</li>
+  <li>♠️ IDK what else to write here.</li>
 </ul>
 
 <div id="foot" align="left">
