@@ -11,7 +11,7 @@
 
 <h2>About me</h2>
 <ul>
-  <li>🎓 I'm in 7th grade</li>
+  <li>🎓 I study at school</li>
   <li>🌎 I speak Russian</li>
   <li>🖥️ I can do frontend and backend</li>
   <li>🎒 I can teach people the basics of my job.</li>
@@ -41,3 +41,6 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shepeli4&theme=github_dark)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shepeli4&theme=github_dark&utcOffset=8)
 </div>
+<p>⠀</p>
+
+*At the moment, I am not disclosing my first and last name because I want to remain anonymous until I finish my studies at `school`.*
