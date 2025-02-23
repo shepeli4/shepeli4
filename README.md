@@ -1,6 +1,6 @@
 <div id="main" align="center">
   <h1>Hi there, I'm shepeli4</h1>
-  <h3>Schoolboy from Russia</h3>
+  <h2>Schoolboy from Russia</h3>
   <a href="https://t.me/shepeli18">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>
@@ -19,6 +19,7 @@
   <li>❤️ I hate Lua.</li>
   <li>💴 Хочу деняк</li>
 </ul>
+<p>⠀</p>
 
 <div id="foot" align="left">
   <h2>Languages and tools</h2>
@@ -28,6 +29,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="Arduino" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" title="Lua" width="70" height="70"/>&nbsp;
+  
+  I know Python best, but I can also program in the languages ​​listed above.
+  <p>⠀</p>
 </div>
 
 <h2>My stat</h2>
