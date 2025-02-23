@@ -15,6 +15,8 @@
   <li>🌎 I speak Russian</li>
   <li>🖥️ I can do frontend and backend</li>
   <li>🎒 I can teach people the basics of my job.</li>
+  <li>🏠 I can work from home.</li>
+  <li>❤️ I hate Lua.</li>
   <li>💴 Хочу деняк</li>
 </ul>
 
@@ -25,6 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="Arduino" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" title="Lua" width="70" height="70"/>&nbsp;
 </div>
 
 <h2>My stat</h2>
