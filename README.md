@@ -21,16 +21,16 @@
 <div id="foot" align="left">
   <h2>Languages and tools</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="70" height="70"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="arduino" width="70" height="70"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="c++" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="html" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="css" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="arduino" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="c++" width="70" height="70"/>&nbsp;
 </div>
 
 <h2>My stat</h2>
 <div id="toes" align="center">
   
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shepeli4&theme=github_dark)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shepeli4&theme=github_dark)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shepeli4&theme=github_dark&utcOffset=8)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shepeli4&theme=github_dark)
 </div>
