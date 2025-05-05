@@ -7,6 +7,9 @@
   <a href="mailto:mih.shperling@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/YouTube-blue?style=for-the-badge&logo=YouTube&logoColor=white" alt="rickroll-lol"/>
+  </a>
 </div>
 
 <h2>About me</h2>
