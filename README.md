@@ -19,7 +19,6 @@
   <li>🖥️ I can do frontend and backend</li>
   <li>🎒 I can teach people the basics of my job.</li>
   <li>🏠 I can work from home.</li>
-  <li>❤️ I hate Lua.</li>
   <li>💴 Хочу деняк</li>
 </ul>
 <p>⠀</p>
@@ -34,9 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" title="Lua" width="70" height="70"/>&nbsp;
   
-  I know Python best, but I can also program in the languages ​​listed above.
-  <p>⠀</p>
+  I know Python and C++ best, but I can also program in the languages ​​listed above.
 </div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=1000&multiline=true&width=435&lines=lua+sucks..+or+not..;idk%2C+I+haven't+decided+yet" alt="Typing SVG" /></a>
 
 <h2>My stat</h2>
 <div id="toes" align="center">
