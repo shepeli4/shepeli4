@@ -21,6 +21,7 @@
   <li>🏠 I can work from home.</li>
   <li>💴 Хочу деняк</li>
 </ul>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=1000&multiline=true&width=435&lines=lua+sucks..+or+not..;idk%2C+I+haven't+decided+yet" alt="Typing SVG" /></a>
 <p>⠀</p>
 
 <div id="foot" align="left">
@@ -34,7 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" title="Lua" width="70" height="70"/>&nbsp;
   
   I know Python and C++ best, but I can also program in the languages ​​listed above.
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=1000&multiline=true&width=435&lines=lua+sucks..+or+not..;idk%2C+I+haven't+decided+yet" alt="Typing SVG" /></a>
   <p>⠀</p>
 </div>
 
